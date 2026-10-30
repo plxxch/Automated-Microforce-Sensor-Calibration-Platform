@@ -1,0 +1,11 @@
+numpy
+pandas
+pyserial
+crcmod
+pyttsx3
+psutil
+matplotlib
+pyqt5
+qdarkstyle
+plotly
+pytest
